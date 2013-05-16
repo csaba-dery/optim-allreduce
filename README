@@ -1,3 +1,3 @@
 This is an optimized implementation of the AllReduce algorithm found in Vowpal Wabbit https://github.com/JohnLangford/vowpal_wabbit. 
-The idea originated as a school project proposition from Professor John Langford, while he was teaching the Big Data: Large Scale Machine Learning class at New York University during the Spring 2013 semester. 
+The idea originated as a project proposition of Professor John Langford, while he was teaching the Big Data: Large Scale Machine Learning class at New York University during the Spring 2013 semester. 
 
