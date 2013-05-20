@@ -7,7 +7,7 @@ using namespace std;
 int main(int argc, char* argv[]) {
 
 	//uint32_t length = 1 << 18;
-	uint32_t length = 128;
+	uint32_t length = 8;
 	float* buffer = new float[length];
 	int total_nodes = atoi(argv[1]);
 	int node_number = atoi(argv[2]);
